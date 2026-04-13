@@ -43,6 +43,9 @@ Findings: - Ethernet connection active (CORP.LOCAL)
 
 Conclusion: Network functioning properly
 
+<img width="862" height="701" alt="image (1)" src="https://github.com/user-attachments/assets/53e8dae2-9a5f-4303-9dd8-5de6d11219fe" />
+<img width="813" height="545" alt="image (2)" src="https://github.com/user-attachments/assets/3fc064f1-4d36-4124-83b0-63937ad947af" />
+
 ### 4. Root Cause Analysis
 
 -   Issue occurred during Microsoft Teams usage
@@ -53,6 +56,7 @@ Conclusion: Application issue misinterpreted as network problem
 ### 5. Resolution
 
 -   Repaired Microsoft Teams via Control Panel
+<img width="817" height="566" alt="image (3)" src="https://github.com/user-attachments/assets/92e10bb5-cbec-473d-b2bc-db37575479b2" />
 
 ## ✅ Outcome
 

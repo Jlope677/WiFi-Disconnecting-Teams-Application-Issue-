@@ -9,9 +9,9 @@ resolved by identifying the true root cause.
 
 ## 🎯 Issue Summary
 
--   User: Oscar Ruiz\
--   Department: HR\
--   Reported Issue: WiFi disconnecting every few seconds\
+-   User: Oscar Ruiz
+-   Department: HR
+-   Reported Issue: WiFi disconnecting every few seconds
 -   Business Impact: Video calls dropped multiple times, preventing
     stable communication
 
@@ -19,33 +19,33 @@ resolved by identifying the true root cause.
 
 ### 1. Verify Infrastructure
 
--   ISP operational\
--   Network load normal\
+-   ISP operational
+-   Network load normal
 -   Servers healthy
 
 Conclusion: No network-wide outage detected
 
 ### 2. Identify Scope
 
--   Issue isolated to one user\
+-   Issue isolated to one user
 -   No other users impacted
 
 Conclusion: Not an infrastructure issue
 
 ### 3. Remote Diagnostics
 
--   Connected to workstation remotely\
+-   Connected to workstation remotely
 -   Checked network connection
 
-Findings: - Ethernet connection active (CORP.LOCAL)\
-- Valid internal IP assigned (10.x.x.x)\
+Findings: - Ethernet connection active (CORP.LOCAL)
+- Valid internal IP assigned (10.x.x.x)
 - Stable connectivity
 
 Conclusion: Network functioning properly
 
 ### 4. Root Cause Analysis
 
--   Issue occurred during Microsoft Teams usage\
+-   Issue occurred during Microsoft Teams usage
 -   No actual WiFi instability detected
 
 Conclusion: Application issue misinterpreted as network problem
@@ -56,21 +56,21 @@ Conclusion: Application issue misinterpreted as network problem
 
 ## ✅ Outcome
 
--   Stability restored\
--   No further disconnections\
+-   Stability restored
+-   No further disconnections
 -   User able to maintain video calls
 
 ## 🧠 Key Takeaways
 
--   Always verify connection type\
--   Application issues can mimic network problems\
+-   Always verify connection type
+-   Application issues can mimic network problems
 -   Follow structured troubleshooting
 
 ## 🛠️ Skills Demonstrated
 
--   Troubleshooting methodology\
--   Remote support\
--   Root cause analysis\
+-   Troubleshooting methodology
+-   Remote support
+-   Root cause analysis
 -   Application repair
 
 ## 🚀 Professional Development
